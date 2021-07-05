@@ -1,2 +1,2 @@
 # rustsandbox
-A sandbox to lear Rust (tryin) 
+A sandbox to learn Rust 
